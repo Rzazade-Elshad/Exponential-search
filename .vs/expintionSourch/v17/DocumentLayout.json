@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rzaza\\source\\repos\\expintionSourch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67FBF501-F96A-47A1-A274-56FA74E39308}|expintionSourch\\expintionSourch.csproj|c:\\users\\rzaza\\source\\repos\\expintionsourch\\expintionsourch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FBF501-F96A-47A1-A274-56FA74E39308}|expintionSourch\\expintionSourch.csproj|solutionrelative:expintionsourch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rzaza\\source\\repos\\expintionSourch\\expintionSourch\\Program.cs",
+              "RelativeDocumentMoniker": "expintionSourch\\Program.cs",
+              "ToolTip": "C:\\Users\\rzaza\\source\\repos\\expintionSourch\\expintionSourch\\Program.cs*",
+              "RelativeToolTip": "expintionSourch\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T07:31:28.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

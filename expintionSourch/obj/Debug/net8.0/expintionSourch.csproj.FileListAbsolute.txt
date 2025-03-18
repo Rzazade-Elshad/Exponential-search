@@ -1,0 +1,14 @@
+C:\Users\rzaza\source\repos\expintionSourch\expintionSourch\bin\Debug\net8.0\expintionSourch.exe
+C:\Users\rzaza\source\repos\expintionSourch\expintionSourch\bin\Debug\net8.0\expintionSourch.deps.json
+C:\Users\rzaza\source\repos\expintionSourch\expintionSourch\bin\Debug\net8.0\expintionSourch.runtimeconfig.json
+C:\Users\rzaza\source\repos\expintionSourch\expintionSourch\bin\Debug\net8.0\expintionSourch.dll
+C:\Users\rzaza\source\repos\expintionSourch\expintionSourch\bin\Debug\net8.0\expintionSourch.pdb
+C:\Users\rzaza\source\repos\expintionSourch\expintionSourch\obj\Debug\net8.0\expintionSourch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzaza\source\repos\expintionSourch\expintionSourch\obj\Debug\net8.0\expintionSourch.AssemblyInfoInputs.cache
+C:\Users\rzaza\source\repos\expintionSourch\expintionSourch\obj\Debug\net8.0\expintionSourch.AssemblyInfo.cs
+C:\Users\rzaza\source\repos\expintionSourch\expintionSourch\obj\Debug\net8.0\expintionSourch.csproj.CoreCompileInputs.cache
+C:\Users\rzaza\source\repos\expintionSourch\expintionSourch\obj\Debug\net8.0\expintionSourch.dll
+C:\Users\rzaza\source\repos\expintionSourch\expintionSourch\obj\Debug\net8.0\refint\expintionSourch.dll
+C:\Users\rzaza\source\repos\expintionSourch\expintionSourch\obj\Debug\net8.0\expintionSourch.pdb
+C:\Users\rzaza\source\repos\expintionSourch\expintionSourch\obj\Debug\net8.0\expintionSourch.genruntimeconfig.cache
+C:\Users\rzaza\source\repos\expintionSourch\expintionSourch\obj\Debug\net8.0\ref\expintionSourch.dll
